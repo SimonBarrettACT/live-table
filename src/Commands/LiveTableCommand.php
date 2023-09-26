@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace SimonBarrettACT\LiveTable\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LiveTableCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'live-table';
 
     public $description = 'My command';
 
